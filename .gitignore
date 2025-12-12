@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Data directories (generated at runtime)
+Bazaar/
+heure/
+benef/
+calculs/
+journalier/
+journalierJS/
+flip/
+comp_data
+ref_data
+bazaar_ref.json
+bazaar_comp.json
+
+# IDE settings
+.vscode/
+.idea/
