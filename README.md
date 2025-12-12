@@ -19,7 +19,7 @@ A professional, automated tool for tracking Hypixel Skyblock Bazaar prices, iden
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/hypixel-skyblock-tool.git
+    git clone https://github.com/MathieuBoubet/hypixel-skyblock-tool.git
     cd hypixel-skyblock-tool
     ```
 
